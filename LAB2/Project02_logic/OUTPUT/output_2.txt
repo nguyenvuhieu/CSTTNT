@@ -1,0 +1,10 @@
+2
+-M
+M OR -N
+2
+M OR -O
+-N OR O
+1
+-M OR O
+0
+NO
